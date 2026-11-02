@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=220&section=header&text=Jagadeesh%20S&fontSize=60&fontColor=ffffff&animation=scaling&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=220&section=header&text=Jagadeesh%20S&fontSize=60&fontColor=ffffff&animation=scaling&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Full-Stack%20and%20AI%20Developer&descAlignY=60&descSize=18" width="100%" />
 
 <img src="https://raw.githubusercontent.com/jagadeesh877/jagadeesh877/main/assets/fire.svg" width="420" alt="zooming fire" />
 
-<a href="https://github.com/jagadeesh877"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I'm+Jagadeesh+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+LLM+Chatbot+Builder+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Fast+on+the+code%2C+faster+on+the+track+%F0%9F%8F%8E%EF%B8%8F;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://github.com/jagadeesh877"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I'm+Jagadeesh+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+and+LLM+Chatbot+Builder+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Fast+on+the+code%2C+faster+on+the+track+%F0%9F%8F%8E%EF%B8%8F;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <img src="https://raw.githubusercontent.com/jagadeesh877/jagadeesh877/main/assets/car-race.svg" width="100%" alt="car racing" />
 
