@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=220&section=header&text=Jagadeesh%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=60&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=220&section=header&text=Jagadeesh%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Full-Stack%20and%20AI%20Developer&descAlignY=60&descSize=18" width="100%" alt="header"/>
 
 <a href="https://github.com/jagadeesh877">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I'm+Jagadeesh+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+and+LLM+Chatbot+Builder+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 <br/><br/>
 
 <!-- ===== TOP BUTTONS ===== -->
-<a href="https://YOUR-PORTFOLIO-LINK-HERE"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-View%20My%20Work-8B5CF6?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://jagaxas.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-View%20My%20Work-8B5CF6?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/jagadeesh-s-281571292/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/jagadeesh877"><img src="https://img.shields.io/badge/GitHub-jagadeesh877-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:jaga543424@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -181,7 +181,7 @@ I am currently **looking for an internship** where I can contribute to real-worl
 
 I'm open to internships and collaborations. Feel free to reach out!
 
-<a href="https://YOUR-PORTFOLIO-LINK-HERE"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://jagaxas.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/jagadeesh-s-281571292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/jagadeesh877"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:jaga543424@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
